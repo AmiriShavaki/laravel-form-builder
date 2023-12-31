@@ -12,12 +12,6 @@ The laravel form builder code generator
 - row and columns
 - input (all type)
 - select (full auto generate )
-- textarea
-- submit 
-- switch (toggle) input
-- form divider
-- all form methods
-- move elements
 
 
 
